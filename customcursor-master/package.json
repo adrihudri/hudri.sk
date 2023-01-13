@@ -47,7 +47,7 @@
     "undefined": "^0.1.0",
     "vinyl-named": "^1.1.0",
     "webpack": "^4.16.5",
-    "webpack-cli": "^3.1.0",
+    "webpack-cli": "^3.3.12",
     "webpack-stream": "^5.1.1"
   },
   "dependencies": {
